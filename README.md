@@ -20,6 +20,20 @@ The report analyses hospital admissions data to answer operational, clinical, an
 | **Financial Summary** | Revenue composition and insurance coverage | KPI cards, insurance-rate gauge, insurance versus out-of-pocket share by department, revenue by hospital (treemap), revenue by month and year |
 | **Quality & Satisfaction** | Patient experience and outcomes | Satisfaction by doctor and by department, bill amount versus satisfaction (scatter), patient status breakdown with recovery rate |
 
+## Screenshots
+
+### Executive Overview
+![Executive Overview](01-executive-overview.png)
+
+### Department Analysis
+![Department Analysis](02-department-analysis.png)
+
+### Financial Summary
+![Financial Summary](03-financial-summary.png)
+
+### Quality & Satisfaction
+![Quality & Satisfaction](04-quality-satisfaction.png)
+
 ## Mobile-Optimised Layout
 
 Each report page includes a dedicated mobile layout so the dashboard remains readable in the Power BI mobile application.
