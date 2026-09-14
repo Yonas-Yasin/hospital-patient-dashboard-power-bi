@@ -49,7 +49,7 @@ Each report page includes a dedicated mobile layout so the dashboard remains rea
 
 - Interactive slicers and cross-filtering between visuals
 - KPI cards for headline metrics
-- Navigation button for moving between report pages
+- Back button for returning to the previous page
 - Consistent, accessible colour theme across all pages
 - Separate desktop and mobile layouts
 
